@@ -1,0 +1,6 @@
+[submodule "frontend/node"]
+	path = frontend/node
+	url = git@github.com:h-makihara/yahoo_finance.git
+[submodule "backend/go"]
+	path = backend/go
+	url = git@github.com:h-makihara/yahoo_finance_api.git
